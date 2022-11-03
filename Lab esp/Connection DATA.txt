@@ -1,0 +1,8 @@
+Token: 
+
+       yxVWTdwdkodt49ZA7c7roFJpXqMQ1zyvWx3Y6GtSs6_34TF4TIFO6G9Kq8B_qK3F354WBm_yFmY_BS2vHsUbXQ==
+
+
+INFLUXDB_URL    "https://us-central1-1.gcp.cloud2.influxdata.com"
+INFLUXDB_ORG    "palananda@webmail.npru.ac.th"
+ 

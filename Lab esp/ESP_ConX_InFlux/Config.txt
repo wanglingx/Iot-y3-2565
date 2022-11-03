@@ -1,0 +1,20 @@
+// Set up your WiFi connection here
+
+// WiFi AP SSID
+#define WIFI_SSID "<Ort.palananda>"
+// WiFi password
+#define WIFI_PASSWORD "<12345678>"
+
+// Set up your InfluxDB details here
+
+// InfluxDB v2 server url (Use: InfluxDB UI -> Load Data -> Client Libraries)
+#define INFLUXDB_URL "https://us-central1-1.gcp.cloud2.influxdata.com:8086"
+
+// InfluxDB v2 server or cloud API authentication token (Use: InfluxDB UI -> Data -> Tokens -> <select token>)
+#define INFLUXDB_TOKEN "yxVWTdwdkodt49ZA7c7roFJpXqMQ1zyvWx3Y6GtSs6_34TF4TIFO6G9Kq8B_qK3F354WBm_yFmY_BS2vHsUbXQ=="
+
+// InfluxDB v2 organization id (Use: InfluxDB UI -> User -> About -> Common Ids )
+#define INFLUXDB_ORG "palananda@webmail.npru.ac.th"
+
+// InfluxDB v2 bucket name (Use: InfluxDB UI ->  Data -> Buckets)
+#define INFLUXDB_BUCKET "Data_ESP"
