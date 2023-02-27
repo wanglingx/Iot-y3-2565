@@ -1,6 +1,7 @@
 #include <ESP8266WiFi.h> 
 const char* ssid = "avocado123";
 const char* pass = "01162001";
+
 void setup () {
   Serial.begin(230400); //
   WiFi.begin(ssid, pass); 
